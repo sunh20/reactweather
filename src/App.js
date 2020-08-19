@@ -26,7 +26,8 @@ class App extends React.Component {
         return (
             <div>
                 <h1>React Weather</h1>
-                <h3>Welcome back. Where in the world are you interested in?</h3>
+                <h3>Welcome back.</h3>
+                <h3>Where in the world are you interested in?</h3>
                 <Form
                     placeholderText="ie. Seattle, 98115"
                     onSubmit={(query) => {
