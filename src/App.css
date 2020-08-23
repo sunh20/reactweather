@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
 body {
   margin: 20px;
   background-color: #ccf5ff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #203F4A;
   text-align: center;
   font-size: 18px;
@@ -86,10 +86,7 @@ a:hover {
 
 #error-message {
   text-align: center;
-  font-size: 24px;
-  background-color: #e580ff;
-  border-radius: 20px;
-  padding: 10px;
+  height: 20%;
 }
 
 .hidden {
