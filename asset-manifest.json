@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/challenges-amjjlai/challenge6/static/css/main.a02421b6.chunk.css",
-    "main.js": "/challenges-amjjlai/challenge6/static/js/main.edff32c1.chunk.js",
-    "main.js.map": "/challenges-amjjlai/challenge6/static/js/main.edff32c1.chunk.js.map",
-    "runtime-main.js": "/challenges-amjjlai/challenge6/static/js/runtime-main.ffbb9ccb.js",
-    "runtime-main.js.map": "/challenges-amjjlai/challenge6/static/js/runtime-main.ffbb9ccb.js.map",
-    "static/js/2.fcf1304e.chunk.js": "/challenges-amjjlai/challenge6/static/js/2.fcf1304e.chunk.js",
-    "static/js/2.fcf1304e.chunk.js.map": "/challenges-amjjlai/challenge6/static/js/2.fcf1304e.chunk.js.map",
-    "index.html": "/challenges-amjjlai/challenge6/index.html",
-    "precache-manifest.9f8f401cf22b8c2b678bb0b79bb2c72c.js": "/challenges-amjjlai/challenge6/precache-manifest.9f8f401cf22b8c2b678bb0b79bb2c72c.js",
-    "service-worker.js": "/challenges-amjjlai/challenge6/service-worker.js",
-    "static/css/main.a02421b6.chunk.css.map": "/challenges-amjjlai/challenge6/static/css/main.a02421b6.chunk.css.map"
+    "main.css": "/reactweather/static/css/main.a02421b6.chunk.css",
+    "main.js": "/reactweather/static/js/main.edff32c1.chunk.js",
+    "main.js.map": "/reactweather/static/js/main.edff32c1.chunk.js.map",
+    "runtime-main.js": "/reactweather/static/js/runtime-main.d02fc8c4.js",
+    "runtime-main.js.map": "/reactweather/static/js/runtime-main.d02fc8c4.js.map",
+    "static/js/2.fcf1304e.chunk.js": "/reactweather/static/js/2.fcf1304e.chunk.js",
+    "static/js/2.fcf1304e.chunk.js.map": "/reactweather/static/js/2.fcf1304e.chunk.js.map",
+    "index.html": "/reactweather/index.html",
+    "precache-manifest.a82349b132f76970bcd1074607b9c362.js": "/reactweather/precache-manifest.a82349b132f76970bcd1074607b9c362.js",
+    "service-worker.js": "/reactweather/service-worker.js",
+    "static/css/main.a02421b6.chunk.css.map": "/reactweather/static/css/main.a02421b6.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffbb9ccb.js",
+    "static/js/runtime-main.d02fc8c4.js",
     "static/js/2.fcf1304e.chunk.js",
     "static/css/main.a02421b6.chunk.css",
     "static/js/main.edff32c1.chunk.js"
